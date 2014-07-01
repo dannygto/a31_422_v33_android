@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- mass storage -->
+    <string name="usb_storage_usage">USB large storage</string>
+
+    <string name="accelerometer_coordinate_title">Accelerometer coordinate system</string>
+
+    <!-- Screen Adaption -->
+    <string name="screen_adaption_title">Enable screen adaption</string>
+    <string name="screen_adaption_summary">Used to adjust size of some games display screen .</string>
+    <string name="screen_adaption_summary_off">The current resolution:</string>
+    <string name="screen_adaption_summary_on">Works after restart</string>
+    <string name="display_mode_selector_title">Display mode</string>
+    <string name="screen_adaption_setting">screen adaption</string>
+    <!-- add by cjcheng startttttttttttttttttttttttttttttttt -->
+    <!-- support mouse advance 2013-12-03 -->
+    <string name="mouse_advance_settings_category">IR mouse Mode</string>
+    <string name="mouse_advance">Mouse steps</string>
+    <!-- add by cjcheng endddddddddddddddddddddddddddddddddddddddd -->
+</resources>

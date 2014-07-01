@@ -1,0 +1,14 @@
+# mount point	fstype		device					device2
+/bootloader 	vfat  		/dev/block/by-name/bootloader
+/env      		emmc    	/dev/block/by-name/env
+/boot			emmc		/dev/block/by-name/boot
+/system			ext4		/dev/block/by-name/system
+/data			ext4		/dev/block/by-name/data
+/misc			emmc		/dev/block/by-name/misc
+/recovery		ext4		/dev/block/by-name/recovery
+/cache 			ext4		/dev/block/by-name/cache
+/sdcard			vfat		/dev/block/by-name/UDISK
+/extsd			auto		../devices/platform/sunxi-mmc.0/mmc_host
+/sata	                auto	        ../devices/platform/sw_ahci.0
+/usb0	                auto	        ../devices/platform/sw_hcd_host0
+/usb1	                auto	        ../devices/platform/sw-ehci.1

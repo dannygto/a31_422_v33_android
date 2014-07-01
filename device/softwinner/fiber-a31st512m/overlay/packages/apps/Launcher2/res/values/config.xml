@@ -1,0 +1,6 @@
+<resources>
+
+	<!-- must match com.android.internal.R.bool.config_reverseDefaultRotation
+		 decide mPortraitRotation and mUpsideDownRotation in PhoneWindowManager -->
+    <bool name="config_reverseDefaultRotation">true</bool>
+</resources>

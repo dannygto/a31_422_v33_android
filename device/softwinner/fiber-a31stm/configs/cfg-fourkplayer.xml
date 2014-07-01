@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfgOverrides>
+    <cfgOverride
+        name="chip_ver"
+        value="31"/>
+    <cfgOverride
+        name="athumb_enable"
+        value="1"/>
+    <cfgOverride
+        name="coolmode_enable"
+        value="1"/>
+    <cfgOverride
+        name="default_open_fullscreen"
+        value="1"/>
+    <cfgOverride
+        name="default_play_mode"
+        value="1"/>
+    <cfgOverride
+        name="hdmi_video_restart"
+        value="0"/>
+    <cfgOverride
+        name="hdmi_cool_mode_disable"
+        value="0"/>
+    <cfgOverride
+        name="dimen_px"
+        value="0"/>
+    <cfgOverride
+        name="orientation"
+        value="0"/>
+    <cfgOverride
+        name="s2160p"
+        value="1"/>
+    <cfgOverride
+        name="s1080p"
+        value="1"/>
+    <cfgOverride
+        name="s720p"
+        value="1"/>
+</cfgOverrides>
+

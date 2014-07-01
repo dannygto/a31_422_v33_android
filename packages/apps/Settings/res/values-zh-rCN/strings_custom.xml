@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- mass storage -->
+    <string name="usb_storage_usage">USB 大容量存储</string>
+
+    <string name="accelerometer_coordinate_title">重力感应坐标系</string>
+    <string name="screen_adaption_title">启用屏幕适配</string>
+    <string name="screen_adaption_summary">用于调整部分游戏的屏幕显示尺寸.</string>
+    <string name="screen_adaption_summary_off">当前分辨率：</string>
+    <string name="screen_adaption_summary_on">点击确认后重启生效</string>
+    <string name="display_mode_selector_title">显示模式</string>
+    <string name="screen_adaption_setting">屏幕适配</string>
+    <!-- add by cjcheng startttttttttttttttttttttttttttttttt -->
+    <!-- support mouse advance 2013-12-03 -->
+    <string name="mouse_advance_settings_category">红外鼠标模式</string>
+    <string name="mouse_advance">鼠标步幅</string>
+    <!-- add by cjcheng endddddddddddddddddddddddddddddddddddddddd -->
+</resources>
